@@ -1,0 +1,101 @@
+Package: com.ivintagelover.solidglass
+ Name: Solid Glass 2
+ Version: 2.0
+ Section: Themes
+ Architecture: iphoneos-arm64
+ Author: iVintageLover
+ Maintainer: iVintageLover
+ Description: iOS 26 icons for older devices.
+Filename: debs/com.ivintagelover.solidglass_2.0_Rootless.deb
+Size: 5154676
+MD5sum: 6f0d9c65773ee505cc18f8020668aad5
+
+Package: com.teslaman3092.popoutbuttons
+ Version: 1.0.1
+popoutbuttons Architecture: iphoneos-arm
+ Section: Tweaks
+ Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+ Author: tesla_man <computerman939+POBsupport@gmail.com>
+ Installed-Size: 473
+ Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+ Name: PopOutButtons
+ Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+ Icon: https://img.chariz.cloud/icon//icon@3x.png
+ Depiction: https://chariz.com/get/popoutbuttons
+ Tag: compatible_min::ios13.0
+Filename: debs/com.teslaman3092.popoutbuttons_1.0.1_iphoneos-arm.deb
+Size: 57712
+MD5sum: 076c9175ec8666f447ca146c0f4cb917
+
+Package: com.ali.aim
+ Name: AIM
+ Architecture: iphoneos-arm
+ Description: iOS 16 Style Time & Date Lockscreen
+ Maintainer: alimaulana
+ Author: alimaulana
+ Section: Tweaks
+ Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+ Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe
+ Version: 1.2.9
+ Installed-Size: 4944
+Filename: com.ali.aim_1.2.9_iphoneos-arm.deb
+Size: 2292770
+MD5sum: 13649669f6d2347cd0cab9de0dc45301
+
+Package: com.alexzielenski.zeppelin
+ Version: 2.1.1-1
+ Architecture: iphoneos-arm
+ Name: Zeppelin
+ Maintainer: Alex Zielenski <support@alexzielenski.com>
+ Author: Alex Zielenski <support@alexzielenski.com>
+ Section: Tweaks
+ Description: Replaces carrier text with an image !
+Filename: debs/com.alexzielenski.zeppelin_2.1.1-1_iphoneos-arm.deb
+Size: 961736
+MD5sum: a91d9dfb8b2d198ef3dba92201e1c684
+
+Package: com.opa334.choicy
+ Name: Choicy
+ Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+ Description: Advanced Tweak Configuration!
+ Depiction: https://opa334.github.io/depic/Choicy/index.html
+ Maintainer: opa334 <opa334@protonmail.com>
+ Author: opa334 <opa334@protonmail.com>
+ Section: Tweaks
+ Architecture: iphoneos-arm
+ Version: 1.5.3-2
+ Installed-Size: 1408
+Filename: debs/com.opa334.choicy_1.5.3-2_iphoneos-arm.deb
+Size: 258672
+MD5sum: 7bdb4c7e29c6b87a3f2c1fa30d5e94ef
+
+Package: com.nahtedetihw.gesturesxv
+ Name: GesturesXV
+ Description: iPhone X gestures brought to older iPhones compatible with iOS 15
+ Maintainer: Ethan Whited
+ Author: Ethan Whited
+ Section: Tweaks
+ Depends: mobilesubstrate
+ Architecture: iphoneos-arm64
+ Version: 1.6
+ Installed-Size: 2756
+Filename: com.nahtedetihw.gesturesxv_1.6_iphoneos-arm.deb
+Size: 2162250
+MD5sum: bb3616e0fe4ee30c20101d4adabbd8e1
+
+Package: com.spark.snowboard
+ Name: SnowBoard
+ Depends: mobilesubstrate, preferenceloader
+ Description: Snowboard theming engine
+ Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+ Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+ Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+ Maintainer: Spark
+ Author: Spark & Dennis D. Bednarz
+ Section: Tweaks
+ Architecture: iphoneos-arm
+ Version: 1.5.37-Beta4
+ Installed-Size: 3284
+Filename: 1.5.37-Beta4.deb
+Size: 1152360
+MD5sum: ca9047183eb478c292edb7e4a936e292
